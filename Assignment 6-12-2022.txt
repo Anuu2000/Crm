@@ -1,0 +1,20 @@
+1)Grocery  :  img[alt='Grocery']
+
+2)Mobiles :   img[alt='Mobiles']
+
+3)Fashion :   img[alt='Fashion']
+
+4)Electronics: img[alt='Electronics']
+
+5)Home	     : img[alt='Home']
+
+6)Appliences	: img[alt='Appliances']
+
+7)Travel	: img[alt='Travel']
+
+8)Top Offers	: img[alt='Top Offers']
+
+9)Beauty,toys and more : img[alt='Beauty, Toys & More']
+
+10)2-Wheelers:   img[alt='2-Wheelers']
+
